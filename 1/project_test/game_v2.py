@@ -42,6 +42,37 @@ def score_game(random_predict) -> int:
     print(f'Ваш алгоритм угадывает число в среднем за: {score} попыток')
     return(score)
 
+
+
+def game_core_v3(number: int = 1) -> int:
+    """
+    Args:
+        number (int, optional): Загаданное число. Defaults to 1.
+
+    Returns:
+        int: Число попыток
+    """
+    count = 0
+    min_number = 1
+    max_number = 100
+    predict_number = np.random.randint(1, 101)
+    while True:
+        count += 1
+        #predict_number = np.random.randint(1, 101)  # предполагаемое число
+        if number < predict_number:
+            max_number = predict_number - 1
+            predict_number = (max_number + min_number) // 2
+        elif number > predict_number:
+            min_number = predict_number + 1
+            predict_number = (max_number + min_number) // 2
+        else:
+            break  # выход из цикла если угадали
+        
+    print(f'Ваш новый алгоритм угадывает число в среднем за: {count} попыток')      
+    return count
+
+
 # RUN
 if __name__ == '__main__':
-    score_game(random_predict)       
+    score_game(random_predict)
+    game_core_v3(random_predict)       
