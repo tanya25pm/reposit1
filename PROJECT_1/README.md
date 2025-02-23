@@ -56,7 +56,7 @@
 
 Выявление пропусков, дубликатов, их обработка и удаление, проведена работы с выбросами
 
-## Результат
+## Результаты
 
 Ноутбук с проектом: [Project-1_Leonteva.ipynb](https://github.com/tanya25pm/reposit1/blob/master/PROJECT_1/Project-1_Leonteva.ipynb).  
 Посмотреть проект с интерактивными графиками plotly можно по [ссылке]( https://hub.2i2c.mybinder.org/user/tanya25pm-reposit1-ptsizvld/notebooks/PROJECT_1/Project-1_Leonteva.ipynb)  
