@@ -37,7 +37,7 @@
 **Обновление резюме** - дата и время последнего обновления резюме;             
 **Авто** - наличие у соискателя автомобиля.             
 Исходный файл с данными  можно скачать по [ссылке](https://drive.google.com/file/d/1O_g_ZEoEOeIJlVZDygVdq28rOzJFbGtn/view?usp=sharing)     
-Файл ExchangeRates.zip содержит сведенья о курсах валют, его можно скачать по  [ссылке](https://drive.google.com/file/d/1evctGdlv4ZgrXlE9b7HlKCga_hCrvcwc/view?usp=sharing)            
+Файл ExchangeRates.zip содержит сведенья о курсах валют можно скачать по  [ссылке](https://drive.google.com/file/d/1evctGdlv4ZgrXlE9b7HlKCga_hCrvcwc/view?usp=sharing)            
 ## Этапы работы над проектом:
 
 1. **Исследование структуры данных**
