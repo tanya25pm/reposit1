@@ -70,7 +70,7 @@
 ## 5. Результат
 
 Ноутбук с проектом: [Project-1_Leonteva.ipynb](https://github.com/tanya25pm/reposit1/blob/master/PROJECT_1/Project-1_Leonteva.ipynb).  
-Посмотреть проект с интерактивными графиками plotly можно по [ссылке](https://hub.2i2c.mybinder.org/user/tanya25pm-reposit1-mi8qj80g/lab/tree/PROJECT_1/Project-1_Leonteva.ipynb)    
+Посмотреть проект с интерактивными графиками plotly можно по [ссылке]( https://hub.2i2c.mybinder.org/user/tanya25pm-reposit1-ptsizvld/notebooks/PROJECT_1/Project-1_Leonteva.ipynb)  
 Набор пакетов и версий для корректной работы коды файле: [requirements.txt](https://github.com/tanya25pm/reposit1/blob/master/PROJECT_1/requirements.txt).  
 
 :arrow_up:[к оглавлению](#Оглавление)
